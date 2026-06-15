@@ -9,3 +9,4 @@ bash simple-interest.sh
 
 ## Formula
 Simple Interest = (Principal * Rate * Time) / 100
+Addition = a + b
